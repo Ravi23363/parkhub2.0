@@ -73,7 +73,7 @@ class HomepageScreenState extends State<HomepageScreen> {
 
   Future<void> _loadNearbyParkingSpots(LatLng userLocation) async {
     final apiKey =
-        'AIzaSyA2spmVRxTetmqyb-HQOewSmUBgpFbBTMo'; // Replace with your real key
+        'apikey'; // Replace with your real key
     final url =
         'https://maps.googleapis.com/maps/api/place/textsearch/json?query=parking+in+Selangor+Malaysia&key=$apiKey';
 
@@ -159,7 +159,7 @@ class HomepageScreenState extends State<HomepageScreen> {
 
   //Polyline
   Future<void> _getRoutePolyline(LatLng start, LatLng end) async {
-    const String apiKey = 'AIzaSyA2spmVRxTetmqyb-HQOewSmUBgpFbBTMo';
+    const String apiKey = 'apikey';
     final url =
         'https://maps.googleapis.com/maps/api/directions/json?origin=${start.latitude},${start.longitude}&destination=${end.latitude},${end.longitude}&key=$apiKey';
 
@@ -334,7 +334,7 @@ class HomepageScreenState extends State<HomepageScreen> {
                 final data = await GmhService().getAddress(
                   lat: pos.latitude,
                   lng: pos.longitude,
-                  apiKey: 'AIzaSyA2spmVRxTetmqyb-HQOewSmUBgpFbBTMo',
+                  apiKey: 'apikey',
                 );
 
                 if (data != null) {
