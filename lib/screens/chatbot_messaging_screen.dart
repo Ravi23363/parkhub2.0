@@ -285,6 +285,9 @@ class _ChatBotConversationScreen extends State<ChatBotConversationScreen> {
             ),
           );
         },
+
+
+        
         items: const [
           BottomNavigationBarItem(
             icon: Icon(Icons.location_on),
