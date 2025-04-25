@@ -19,7 +19,7 @@ class Place {
 }
 
 class PlacesService {
-  final String _key = 'AIzaSyA2spmVRxTetmqyb-HQOewSmUBgpFbBTMo';
+  final String _key = 'apikey';
 
   Future<List<Place>> getPlaces(double lat, double lng) async {
     final uri = Uri.parse(
