@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "parkhub-chatbot-qnej",
+  "private_key_id": "738449e6d23a96fa3c339b13a980a9f4df5cff8a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC6XbO6lss7EdJf\n8wV9jiOZGkyUHsiHCa6ScSYqpbDUEaHAq6urImQpJMlsS+1AJsJZicjfPgWHpUWS\n36XGeJvz+ljGOkYpxcfME4/8SQnHRjwRb0e8BKt634GnMwxgpdPH7Xe6mTnetkxI\n0BeDYQ1F4+C8BxleLNS8VN0niFEudXYqHDbL8pqZmlomO3dVQ0sbWY9zuJRwkBwJ\nhpM02HCOdYi7QPkgbCpQouKrrQRHpU90a0kersNheMh9EeM1v4oCQhkqQtEzO9My\nIbw9ycRuJ0XqwnZAS94HLmLr6QX6B0EbRUgcLdGRiFPxfoyImo3L12eFdJwsnjGN\nWg88rUwdAgMBAAECggEAR0ofvdEAFez30g9G+uPb9y2JvKFX6NwJxOf2hxrRnRXP\nj8G7jd++e8SgLkaPD1qkPpcH2WnCuMQ+bHQT2Gt7kKUjv1Q8Ua9gAc875XBVBr71\nrF+qi6Anrn1//aL36aKVdCWBBsalTe3jGXlMfUurRaBpb9OxXwZ8LDy0SnKJR2Es\nsZOoWamCY4PdPZwoh+jOOdbIkLy/dz6nX5kfXt3bWFzYqCB5aCoyQ/5CMF1ap3H3\nmFBD9iNMUGiKzDTazMppt/GGkwuTR2r/oVFX7U1MhufR2KWWbZu5YwBFUDGpb/qS\neafPFAJWZH03J1iQ7JR+gO3NGw/b27wIjDxCz37pCwKBgQDtIZmdT2NggGHujQN3\nIPrs3JGUiV3DxeICjhMOdJ9CVgt48fxp3s8/I0vFdcSPOf6jKtTxZHUnUPSs+rd0\n3HpzxM5ApgKkqnpTpTpecgOIqeGzT0QzxkM5zvV0ySxI2LF6VEGbgUoM82x1Whz4\nEEsRRvvmEAkGf+qh8WqK+WS9rwKBgQDJMgGtv4yQ+TrdBjVUOtMsVvEWhGi2BlKt\nywkVT8k9G03csqHnUd+3+BOG1Ue8irDmRr1adHY1/1I3biiBpF52b1VwxWD5t1fv\nalZ2DA3cBUFCxKwVYVXd6bVz13+UgcnrMI8E/lYbw+lBEk0bp6cBEQTXifIqEE57\nym5YKp1x8wKBgEUfpkfU/IME6YdAU+JGGt8w7L7/y/VlmZxlDekI1ePgcTewUoQK\nDx+4ij3lNocJwNCPi8NSJVRwpOJHs3K9UnSsyfLOcbbOexom7/zX/2+3FbPPR3JQ\nOQiA68w/WElj4Vhndzh9V7iuvM74lbk6BqfiqUtHIVpjr2HFneklCdjBAn8jXabt\n473Rvf2a3HyDUdPM93tpedzuIi5mXko6dMvq8eG96aiMANhSfkjwao0xly+BSu39\n+HrPAxJwq+xy3XG9X9Sk/g0N2Cyc6RRJq9TD2Cigk/Gr0HBHkc1Tj43djPLxZJe/\nSPXZ65YU2iKzucSha1xuhtEKk9M37112IgeLAoGBAM8+UQqbI5/wdTz4rV3keNsc\n+Dd2QSC1AgzRyua90iVpc8dHeola3tGVbCbkMojTUTrZc+m05S39Wj4ovXX+5rDy\ngpaX6AbGQITx9E61GbCzq4hTb/Cvc+r4WwRxUbX9J4tfSe23gxuxmiWP/VtrMQyF\nLLPo4Oj5U2HDmmJW4W+/\n-----END PRIVATE KEY-----\n",
+  "client_email": "parkhubbot@parkhub-chatbot-qnej.iam.gserviceaccount.com",
+  "client_id": "101836290418899321180",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/parkhubbot%40parkhub-chatbot-qnej.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

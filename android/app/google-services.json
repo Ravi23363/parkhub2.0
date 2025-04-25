@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48192512270",
+    "project_id": "parkhub-ebf1c",
+    "storage_bucket": "parkhub-ebf1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48192512270:android:d075d83b9e515b386ab75f",
+        "android_client_info": {
+          "package_name": "com.example.parkhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe_CBb-WjAl5vnUhJ3XHZuK_NaKa9IbhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
